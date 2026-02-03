@@ -12,7 +12,7 @@ Xây dựng hệ thống hỏi đáp tự động về văn bản luật Việt 
 
 ## 📊 TIẾN TRÌNH 6 GIAI ĐOẠN
 
-### ✅ Giai đoạn 1: Làm sạch dữ liệu (1 ngày)
+### ✅ Giai đoạn 1: Làm sạch dữ liệu
 
 **Mục đích**: Đảm bảo dữ liệu 100% chính xác trước khi xử lý
 
@@ -33,7 +33,7 @@ Xây dựng hệ thống hỏi đáp tự động về văn bản luật Việt 
 
 ---
 
-### ✅ Giai đoạn 2: Chuyển đổi sang Vector Database (1 ngày)
+### ✅ Giai đoạn 2: Chuyển đổi sang Vector Database
 
 **Mục đích**: Tạo FAISS vector database để hỗ trợ tìm kiếm ngữ nghĩa
 
@@ -54,7 +54,7 @@ Xây dựng hệ thống hỏi đáp tự động về văn bản luật Việt 
 
 ---
 
-### ✅ Giai đoạn 3: Hybrid Search (2 ngày)
+### ✅ Giai đoạn 3: Hybrid Search
 
 **Mục đích**: Kết hợp tìm kiếm từ khóa (BM25) và tìm kiếm ngữ nghĩa (Dense) để đạt độ chính xác cao nhất
 
