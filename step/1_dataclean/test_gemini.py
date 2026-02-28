@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 # 1. Load API Key từ file .env
-load_dotenv()
+load_dotenv(override=True)
 
 # 2. Khởi tạo model Gemini
 llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash")

@@ -1,7 +1,7 @@
 
 ## 📊 TỔNG KẾT TIẾN TRÌNH DỰ ÁN RAG LEGAL QA
 
-### ✅ HOÀN THÀNH (3/6 Giai đoạn)
+### ✅ HOÀN THÀNH (4/6 Giai đoạn)
 
 ---
 
@@ -570,7 +570,7 @@ for doc in results:
 
 ---
 
-## 🚀 GIAI ĐOẠN 4: GENERATION & REFUSAL (🔜 Tiếp theo)
+## 🚀 GIAI ĐOẠN 4: GENERATION & REFUSAL (✅ Hoàn thành)
 
 ### Giai đoạn là gì
 
@@ -1078,10 +1078,10 @@ with open('evaluation_log.txt', 'a') as f:
 | 1. Data Cleaning | ✅ Hoàn thành | ✅ |
 | 2. Ingestion | ✅ Hoàn thành | ✅ |
 | 3. Hybrid Retrieval | ✅ Hoàn thành | ✅ |
-| 4. Generation & Refusal | 10-12 giờ | 🔜 |
+| 4. Generation & Refusal | ✅ Hoàn thành | ✅ |
 | 5. Demo UI | 4-5 giờ | 🔜 |
 | 6. Evaluation | 12-15 giờ | 🔜 |
-| **Total remaining** | **26-32 giờ** (~3-4 ngày) | |
+| **Total remaining** | **16-20 giờ** (~2-3 ngày) | |
 
 ---
 
@@ -1290,11 +1290,11 @@ Expected: Multi-doc comparison
 - **Testing & deployment**: 1 tuần
 - **Total**: 4-6 tuần
 
-### **Mức độ hoàn thành tổng thể**: 75%
+### **Mức độ hoàn thành tổng thể**: 67%
 - Giai đoạn 1: ✅ 100%
 - Giai đoạn 2: ✅ 100%
 - Giai đoạn 3: ✅ 100%
-- Giai đoạn 4: 🔜 0%
+- Giai đoạn 4: ✅ 100%
 
 ---
 
